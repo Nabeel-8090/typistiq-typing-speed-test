@@ -11,3 +11,15 @@ Challenge yourself with randomly selected paragraphs, track your **WPM**, **accu
 * Start typing as accurately and quickly as possible
 * Real-time stats: WPM and Accuracy
 * After time is up, you'll see your results and feedback
+
+## 🛠 Installation & Running
+
+### 1️⃣ Clone or Download
+Run the following command in the terminal to clone the repository:
+```sh
+git clone https://github.com/YOUR_USERNAME/TypistIQ.git
+cd TypistIQ
+```
+Alternatively, download the ZIP file and extract it.
+
+
