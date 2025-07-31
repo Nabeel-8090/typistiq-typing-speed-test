@@ -31,7 +31,7 @@ Alternatively, download the ZIP file and extract it.
 ```sh
 g++ main.cpp front.cpp middle.cpp last.cpp -o TypistIQ -I<path_to_SFML>\include -L<path_to_SFML>\lib -lsfml-graphics -lsfml-window -lsfml-system
 ```
-Replace **<path_to_SFML>**with your actual SFML folder path.
+Replace **<path_to_SFML>** with your actual SFML folder path.
 <br>
 Then run:
 ```sh
