@@ -31,11 +31,46 @@ Alternatively, download the ZIP file and extract it.
 ```sh
 g++ main.cpp front.cpp middle.cpp last.cpp -o TypistIQ -I<path_to_SFML>\include -L<path_to_SFML>\lib -lsfml-graphics -lsfml-window -lsfml-system
 ```
-Replace <path_to_SFML> with your actual SFML folder path.
+Replace **<path_to_SFML>**with your actual SFML folder path.
+<br>
 Then run:
 ```sh
 TypistIQ.exe
 ```
+
+### 4️⃣ Compile & Run (Linux)
+```sh
+g++ main.cpp front.cpp middle.cpp last.cpp -o TypistIQ -lsfml-graphics -lsfml-window -lsfml-system
+./TypistIQ
+```
+
+
+## Features
+✅ 60-second typing challenge
+✅ Random paragraph generation
+✅ Real-time WPM & accuracy display
+✅ Clean feedback screen
+✅ Modular OOP architecture (7 files)
+✅ Built with SFML for smooth rendering
+✅ Custom fonts and minimal UI
+✅ Light and responsive keyboard-based interface
+
+## Contributing
+Want to improve TypistIQ?<br>
+You're welcome to:
+* ⭐ Star the repo
+* 🛠 Fork it
+* 📌 Open issues / suggestions
+* 🔁 Submit PRs
+
+## License
+This project is open-source under the **MIT License**.
+
+## 🔥 Enjoy Typing!
+If you like this project, don't forget to give it a ⭐ on GitHub!<br>
+Happy Typing! ⌨️😊
+
+
 
 
 
