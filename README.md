@@ -46,29 +46,29 @@ g++ main.cpp front.cpp middle.cpp last.cpp -o TypistIQ -lsfml-graphics -lsfml-wi
 
 
 ## Features
-✅ 60-second typing challenge
-✅ Random paragraph generation
-✅ Real-time WPM & accuracy display
-✅ Clean feedback screen
-✅ Modular OOP architecture (7 files)
-✅ Built with SFML for smooth rendering
-✅ Custom fonts and minimal UI
-✅ Light and responsive keyboard-based interface
+* 60-second typing challenge
+* Random paragraph generation
+* Real-time WPM & accuracy display
+* Clean feedback screen
+* Modular OOP architecture (7 files)
+* Built with SFML for smooth rendering
+* Custom fonts and minimal UI
+* Light and responsive keyboard-based interface
 
 ## Contributing
 Want to improve TypistIQ?<br>
 You're welcome to:
-* ⭐ Star the repo
-* 🛠 Fork it
-* 📌 Open issues / suggestions
-* 🔁 Submit PRs
+* Star the repo
+* Fork it
+* Open issues / suggestions
+* Submit PRs
 
 ## License
 This project is open-source under the **MIT License**.
 
-## 🔥 Enjoy Typing!
+## Enjoy Typing!
 If you like this project, don't forget to give it a ⭐ on GitHub!<br>
-Happy Typing! ⌨️😊
+Happy Typing! ⌨
 
 
 
