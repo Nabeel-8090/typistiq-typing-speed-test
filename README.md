@@ -22,4 +22,21 @@ cd TypistIQ
 ```
 Alternatively, download the ZIP file and extract it.
 
+### 2️⃣ Requirements
+* C++17 or later compiler
+* SFML 2.6+
+* Windows (tested) or Linux
+
+### 3️⃣ Compile & Run (Windows - MinGW / MSYS2)
+```sh
+g++ main.cpp front.cpp middle.cpp last.cpp -o TypistIQ -I<path_to_SFML>\include -L<path_to_SFML>\lib -lsfml-graphics -lsfml-window -lsfml-system
+```
+Replace <path_to_SFML> with your actual SFML folder path.
+Then run:
+```sh
+TypistIQ.exe
+```
+
+
+
 
