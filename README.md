@@ -63,9 +63,6 @@ You're welcome to:
 * Open issues / suggestions
 * Submit PRs
 
-## License
-This project is open-source under the **MIT License**.
-
 ## Enjoy Typing!
 If you like this project, don't forget to give it a ⭐ on GitHub!<br>
 Happy Typing! ⌨
